@@ -1,1 +1,1 @@
-# Project 2 Weather-widgets
+# Day 2: Weather Widget
